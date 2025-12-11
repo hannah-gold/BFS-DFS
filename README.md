@@ -1,10 +1,16 @@
 # Title: BFS-DFS-Traversal-Song!
 
+# Author
+Hannah Gold
+
+# Last Modified
+12/22/2025
+
 # Description
-Utilizes piano chords and drums to create an upbeat/catchy tune accompanied
-with lyrics about BFS and DFS traversal to help listeners remember the 
-difference between the two traversal methods. The piano intro hook is so
-memorable so that when a CS student hears it, it will be catchy enough to get
-stuck in their head. The song is very repetitive on purpose because it helps
-with memorization but it is obvious when a chorus is coming up because of the
-musical hook embedded in.
+This song is a Sonic Pi–generated that teaches BFS and DFS through music. The
+track features a synthesized intro hook, a repeating chord progression, drums
+and additional chorus-only layers such as lead synths, pads, and arpeggiated
+textures triggered with cue/sync for dynamic arrangement changes. Each lyric
+line is timed to musical measures, making the verses and choruses flow
+naturally while reinforcing the contrast between BFS and DFS in a memorable,
+musical way.
